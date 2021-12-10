@@ -15,8 +15,8 @@
 ### *Click here for complete instructions [(Setting Up)](https://github.com/jongtaek-kim/Bioinformatics-For-Molecular-Pathologist/tree/main/Setting-Up-Your-Computer)
 
 ## 3. Introduction To The Command Line.
-### Learn to use command-line tools to perform quality control, align reads to a reference genome, and annotate variants.
-### *Click here for complete instructions [(Command Line Tutorials)](
+### Learn basic UNIX command-line coding (Needed later to perform quality control, align reads to a reference genome, and annotate variants).
+### *Click here for complete instructions [(Command Line Tutorials)](Command-Line-Coding/README.md)
 ## 4. FASTQC
 ## 5. Alignment (SAM/BAM)
 ## 6. Variant Calling
