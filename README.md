@@ -1,6 +1,6 @@
 # Bioinformatics-For-Molecular-Pathologist (Molecular Oncology Rotation at University of Utah/ARUP Laboratories)
 
-# NEXT GENERATION SEQUENCING OVERVIEW
+# NEXT GENERATION SEQUENCING OVERVIEW AND TUTORIAL
 
 <p align="center">
   <img width="1260" height="500" src="https://github.com/jongtaek-kim/Bioinformatics-For-Molecular-Pathologist/blob/be30aae948f9bfba344cd250bd0c607fb62a265e/docs/images/Bioinformatics_workflow.jpg">
