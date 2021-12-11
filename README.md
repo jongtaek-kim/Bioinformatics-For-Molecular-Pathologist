@@ -8,7 +8,7 @@ Created For Molecular Oncology Rotation at the University of Utah/ARUP Laborator
 </p>
 
 ## 1. Wha Is Bioinformatics?
-### Bioinformatics is an intersection between computer programming (software) and biological data (like DNA sequence).
+### Bioinformatics is an intersection between biological data (like DNA sequence) and computer programming (software).
 
 <p align="center">
   <img width="1100" height="435" src="https://github.com/jongtaek-kim/Bioinformatics-For-Molecular-Pathologist/blob/33cb1038350d0bc495cf6320345eb0233dfc2668/docs/images/Bioinformatics%20diagram.png">
