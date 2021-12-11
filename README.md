@@ -1,4 +1,5 @@
-# Bioinformatics-For-Molecular-Pathologist (Molecular Oncology Rotation at University of Utah/ARUP Laboratories)
+# Bioinformatics-For-Molecular-Pathologist 
+Created For Molecular Oncology Rotation at University of Utah/ARUP Laboratories
 
 # NEXT GENERATION SEQUENCING OVERVIEW AND TUTORIAL
 
