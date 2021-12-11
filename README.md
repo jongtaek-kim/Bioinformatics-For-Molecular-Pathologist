@@ -11,7 +11,7 @@ Created For Molecular Oncology Rotation at the University of Utah/ARUP Laborator
 ### Bioinformatics is an intersection between computer programming (software) and biological data (like DNA sequence).
 
 <p align="center">
-  <img width="1100" height="430" src="https://github.com/jongtaek-kim/Bioinformatics-For-Molecular-Pathologist/blob/33cb1038350d0bc495cf6320345eb0233dfc2668/docs/images/Bioinformatics%20diagram.png">
+  <img width="1100" height="435" src="https://github.com/jongtaek-kim/Bioinformatics-For-Molecular-Pathologist/blob/33cb1038350d0bc495cf6320345eb0233dfc2668/docs/images/Bioinformatics%20diagram.png">
 </p>
 
 ### *Click here for a bioinformatics lecture [(Understanding Bioinformatics and NGS)](https://github.com/jongtaek-kim/Bioinformatics-For-Molecular-Pathologist/tree/main/Understanding-Bioinformatics-NGS)
