@@ -1,5 +1,5 @@
 # Bioinformatics-For-Molecular-Pathologist 
-Created For Molecular Oncology Rotation at University of Utah/ARUP Laboratories
+Created For Molecular Oncology Rotation at the University of Utah/ARUP Laboratories
 
 # NEXT GENERATION SEQUENCING OVERVIEW AND TUTORIAL
 
@@ -7,7 +7,8 @@ Created For Molecular Oncology Rotation at University of Utah/ARUP Laboratories
   <img width="1260" height="500" src="https://github.com/jongtaek-kim/Bioinformatics-For-Molecular-Pathologist/blob/be30aae948f9bfba344cd250bd0c607fb62a265e/docs/images/Bioinformatics_workflow.jpg">
 </p>
 
-## 1. Bioinformatics
+## 1. Wha Is Bioinformatics?
+### Bioinformatics is an intersection between computer programming (software) and biological data (like DNA sequence).
 
 ## 2 Setting Up Your Computer For NGS Tutorial
 ### Install Miniconda which contains the conda package manager.
