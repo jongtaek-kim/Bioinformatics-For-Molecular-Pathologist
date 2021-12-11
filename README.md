@@ -10,6 +10,12 @@ Created For Molecular Oncology Rotation at the University of Utah/ARUP Laborator
 ## 1. Wha Is Bioinformatics?
 ### Bioinformatics is an intersection between computer programming (software) and biological data (like DNA sequence).
 
+<p align="center">
+  <img width="1100" height="450" src="https://github.com/jongtaek-kim/Bioinformatics-For-Molecular-Pathologist/blob/33cb1038350d0bc495cf6320345eb0233dfc2668/docs/images/Bioinformatics%20diagram.png">
+</p>
+
+### *Click here for a bioinformatics lecture [(Understanding Bioinformatics and NGS)](https://github.com/jongtaek-kim/Bioinformatics-For-Molecular-Pathologist/tree/main/Understanding-Bioinformatics-NGS)
+
 ## 2 Setting Up Your Computer For NGS Tutorial
 ### Install Miniconda which contains the conda package manager.
 ### Once Miniconda is installed, you can use the conda command to install any other packages such as FastQC, Trimmomatic, BWA, SAMtools, GATK, etc.
