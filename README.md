@@ -8,7 +8,13 @@ Created For Molecular Oncology Rotation at the University of Utah/ARUP Laborator
 </p>
 
 ## 1. Wha Is Bioinformatics?
-### Bioinformatics is an intersection between computer programming (software) and biological data (like DNA sequence).
+### Bioinformatics is an intersection between biological data (like DNA sequence) and computer programming (software).
+
+<p align="center">
+  <img width="1100" height="435" src="https://github.com/jongtaek-kim/Bioinformatics-For-Molecular-Pathologist/blob/33cb1038350d0bc495cf6320345eb0233dfc2668/docs/images/Bioinformatics%20diagram.png">
+</p>
+
+### *Click here for a bioinformatics lecture [(Understanding Bioinformatics and NGS)](https://github.com/jongtaek-kim/Bioinformatics-For-Molecular-Pathologist/tree/main/Understanding-Bioinformatics-NGS)
 
 ## 2 Setting Up Your Computer For NGS Tutorial
 ### Install Miniconda which contains the conda package manager.
@@ -19,7 +25,10 @@ Created For Molecular Oncology Rotation at the University of Utah/ARUP Laborator
 ## 3. Introduction To The Command Line.
 ### Learn basic UNIX command-line coding (Needed later to perform quality control, align reads to a reference genome, and annotate variants).
 ### *Click here for complete instructions [(Command Line Tutorials)](Command-Line-Coding/README.md)
+
 ## 4. FASTQC
+### FastQC is a quality control tool for high throughput sequence data
+
 ## 5. Alignment (SAM/BAM)
 ## 6. Variant Calling
 ## 7. Tertiary Analysis (Interpretation/Report)
