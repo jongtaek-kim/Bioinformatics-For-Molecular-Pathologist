@@ -25,7 +25,10 @@ Created For Molecular Oncology Rotation at the University of Utah/ARUP Laborator
 ## 3. Introduction To The Command Line.
 ### Learn basic UNIX command-line coding (Needed later to perform quality control, align reads to a reference genome, and annotate variants).
 ### *Click here for complete instructions [(Command Line Tutorials)](Command-Line-Coding/README.md)
+
 ## 4. FASTQC
+### FastQC is a quality control tool for high throughput sequence data
+
 ## 5. Alignment (SAM/BAM)
 ## 6. Variant Calling
 ## 7. Tertiary Analysis (Interpretation/Report)
