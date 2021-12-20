@@ -1,20 +1,23 @@
 # Bioinformatics-For-Molecular-Pathologist 
 Created For Molecular Oncology Rotation at the University of Utah/ARUP Laboratories
 
-# NEXT GENERATION SEQUENCING OVERVIEW AND TUTORIAL
 
-<p align="center">
-  <img width="1260" height="500" src="https://github.com/jongtaek-kim/Bioinformatics-For-Molecular-Pathologist/blob/be30aae948f9bfba344cd250bd0c607fb62a265e/docs/images/Bioinformatics_workflow.jpg">
-</p>
 
 ## 1. Wha Is Bioinformatics?
 ### Bioinformatics is an intersection between biological data (like DNA sequence) and computer programming (software).
 
 <p align="center">
-  <img width="1100" height="435" src="https://github.com/jongtaek-kim/Bioinformatics-For-Molecular-Pathologist/blob/33cb1038350d0bc495cf6320345eb0233dfc2668/docs/images/Bioinformatics%20diagram.png">
+  <img width="1100" height="435" src="https://github.com/jongtaek-kim/Bioinformatics-For-Molecular-Pathologist/blob/d9dfdcf549ae117579a61f6c96ddfbe811c83b4c/docs/images/Bioinformatics%20diagram.png">
 </p>
 
-### *Click here for a bioinformatics lecture [(Understanding Bioinformatics and NGS)](https://github.com/jongtaek-kim/Bioinformatics-For-Molecular-Pathologist/tree/main/Understanding-Bioinformatics-NGS)
+## Bioinformatics and Next Generation Sequencing Overview
+
+<p align="center">
+  <img width="1240" height="470" src="https://github.com/jongtaek-kim/Bioinformatics-For-Molecular-Pathologist/blob/d9dfdcf549ae117579a61f6c96ddfbe811c83b4c/docs/images/workflow.png">
+</p>
+
+
+### *Click [here](https://github.com/jongtaek-kim/Bioinformatics-For-Molecular-Pathologist/tree/main/Understanding-Bioinformatics-NGS) for a bioinformatics lecture.
 
 ## 2 Setting Up Your Computer For NGS Tutorial
 ### Install Miniconda which contains the conda package manager.
@@ -26,8 +29,21 @@ Created For Molecular Oncology Rotation at the University of Utah/ARUP Laborator
 ### Learn basic UNIX command-line coding (Needed later to perform quality control, align reads to a reference genome, and annotate variants).
 ### *Click here for complete instructions [(Command Line Tutorials)](Command-Line-Coding/README.md)
 
-## 4. FASTQC
-### FastQC is a quality control tool for high throughput sequence data
+## 4. FastQC
+### [FastQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/) is a quality control tool for high throughput sequence data such as next generation sequencing.
+<p align="center">
+  <img width="700" height="500" src="https://github.com/jongtaek-kim/Bioinformatics-For-Molecular-Pathologist/blob/4a407669119ac2622aad424d5113e981d6e7ced7/docs/images/fastqc.png">
+</p>
+
+### [Trimmomatic](http://www.usadellab.org/cms/?page=trimmomatic) is flexible read trimming tool you can use to remove bad quality reads and perform adaptor clipping.
+
+
+
+
+### *Click here for learn more about [(FastQC)](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/)
+
+
+
 
 ## 5. Alignment (SAM/BAM)
 ## 6. Variant Calling
