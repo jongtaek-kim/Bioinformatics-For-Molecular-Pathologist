@@ -7,7 +7,7 @@ Lecture and Tutorial Created For Molecular Oncology Rotation at the University o
 ### Bioinformatics is an intersection between biological data (like DNA sequence) and computer programming (software).
 
 <p align="center">
-  <img width="1100" height="415" src="https://github.com/jongtaek-kim/Bioinformatics-For-Molecular-Pathologist/blob/d9dfdcf549ae117579a61f6c96ddfbe811c83b4c/docs/images/Bioinformatics%20diagram.png">
+  <img width="1100" height="425" src="https://github.com/jongtaek-kim/Bioinformatics-For-Molecular-Pathologist/blob/d9dfdcf549ae117579a61f6c96ddfbe811c83b4c/docs/images/Bioinformatics%20diagram.png">
 </p>
 
 ## Bioinformatics and Next Generation Sequencing Overview
