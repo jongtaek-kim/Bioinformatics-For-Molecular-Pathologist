@@ -1,5 +1,5 @@
 # Bioinformatics-For-Molecular-Pathologist 
-Created For Molecular Oncology Rotation at the University of Utah/ARUP Laboratories
+Lecture and Tutorial Created For Molecular Oncology Rotation at the University of Utah/ARUP Laboratories
 
 
 
