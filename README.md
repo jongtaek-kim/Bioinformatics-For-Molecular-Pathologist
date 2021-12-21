@@ -63,12 +63,17 @@ Created For Molecular Oncology Rotation at the University of Utah/ARUP Laborator
 
 
 
-## 7. Tertiary Analysis Of VCF (Interpretation/Report)
+## 7. Tertiary Analysis: Interpretation of Somatic Variants in VCF File.
 
 <p align="center">
   <img width="1024" height="428" src="https://github.com/jongtaek-kim/Bioinformatics-For-Molecular-Pathologist/blob/c4a43ebdc86d52fe523fdb2f596858a2b8539409/docs/images/vcf.png">
 </p>
 
+### Somatic Variant Classification Using 4 TIER System (AMP, ASCO, CAP)
+
+<p align="center">
+  <img width="1069" height="586" src="https://github.com/jongtaek-kim/Bioinformatics-For-Molecular-Pathologist/blob/2098079a3c7deb9fba59ebe651533b22ac03109f/docs/images/Tier4.jpg">
+</p>
 
 
 ## 8. Review of Variant Classification Databases and Variant Annotation Resources
