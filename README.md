@@ -77,7 +77,12 @@ Created For Molecular Oncology Rotation at the University of Utah/ARUP Laborator
 
 
 ## 8. Review of Variant Classification Databases and Variant Annotation Resources
+### Variant interpretation is a challenge for many molecular pathology laboratories. 
+<p align="center">
+  <img width="586" height="366" src="https://github.com/jongtaek-kim/Bioinformatics-For-Molecular-Pathologist/blob/bd97198a61fb49f50ed13a410022da445e100296/docs/images/ngsinterpretation2.png">
+</p>
 
+### We will go over databases and annotation resources geared towards molecular pathology laboratories [here.](https://github.com/jongtaek-kim/Bioinformatics-For-Molecular-Pathologist/tree/main/Variant-Classification)
 
 
 
