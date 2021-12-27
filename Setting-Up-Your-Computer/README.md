@@ -47,4 +47,4 @@ conda install gatk
 ```
 &nbsp; 
 
-#### F) Practice Command Line Tutorials [Here.](Command-Line-Coding/README.md)
+#### F) Practice Command Line Tutorials [Here.](https://github.com/jongtaek-kim/Bioinformatics-For-Molecular-Pathologist/tree/main/Command-Line-Coding)
