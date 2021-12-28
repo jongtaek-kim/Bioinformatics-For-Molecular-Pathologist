@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img width="872" height="501" src="https://github.com/jongtaek-kim/Bioinformatics-For-Molecular-Pathologist/blob/2cadd7d5587027e943e3730669fc38d57385cc43/docs/images/Variant_Call_Best_Practices.png">
+  <img width="872" height="501" src="https://github.com/jongtaek-kim/Bioinformatics-For-Molecular-Pathologist/blob/d0440c17f19f726acd780e77c6825f7ba04981ec/docs/images/Best_Practice.png">
 </p>
 
 ## Quality Control with FastQC Program.
