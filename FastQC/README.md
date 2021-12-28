@@ -53,7 +53,7 @@ $ trimmomatic SE fastqfile trimmed_fastqfile SLIDINGWINDOW:4:22 MINLEN:100
 ```
 &nbsp; 
 
-## Run with real data
+## Run with real data.
 ```bash
 $ trimmomatic SE Small_R1.fastq trimmed_Small_R1.fastq SLIDINGWINDOW:4:22 MINLEN:100
 TrimmomaticSE: Started with arguments:
