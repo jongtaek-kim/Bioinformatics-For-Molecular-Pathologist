@@ -76,7 +76,7 @@ folder1 file1.txt copyfile1.txt
 ```
 &nbsp; 
 <p align="left">
-  <img width="1145" height="558" src="https://github.com/jongtaek-kim/Bioinformatics-For-Molecular-Pathologist/blob/de1a912f5af87ba8b47a2a60e5ea311a11b300e0/docs/images/directory2.png">
+  <img width="1145" height="558" src="https://github.com/jongtaek-kim/Bioinformatics-For-Molecular-Pathologist/blob/e6be1001ea143766a1dd43b7712d79d291da5052/docs/images/directory2.png">
 </p>
 
 # H) cd (change directory)
@@ -120,3 +120,10 @@ $ cd /mnt/c/Users/yourname
 <p align="left">
   <img width="2000" height="2588" src="https://github.com/jongtaek-kim/Bioinformatics-For-Molecular-Pathologist/blob/4bb35756df4b9dae985c27c1d976b7aa72c0c00c/docs/images/command-line.png">
 </p>
+
+## These Free Tutorials Are Useful To Gain More Experience!
+- Unix Tutorial for Beginners [(Eight simple tutorials which cover the basics of UNIX / Linux commands)](http://www.ee.surrey.ac.uk/Teaching/Unix/)
+
+- Linux Command Line Basics [(Udacity)](https://www.udacity.com/course/linux-command-line-basics--ud595)
+
+- Introduction to Linux [(edX)](https://www.edx.org/course/introduction-to-linux#.U2UlZjkvDZs)
