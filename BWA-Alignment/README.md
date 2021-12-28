@@ -4,6 +4,10 @@ $ bwa mem ref.fa read1.fq read2.fq > sample1.sam
 ```
 &nbsp; 
 
+<p align="center">
+  <img width="1022" height="586" src="https://github.com/jongtaek-kim/Bioinformatics-For-Molecular-Pathologist/blob/3c3ed130236a806ef2510ff6fe2a3f3e72c6eb1f/docs/images/BWA1.png">
+</p>
+
 ## Run with real data and human reference genome which creates SAM file.
 ```bash
 $ bwa mem hg19.fa Small_R1.fastq Small_R2.fastq > Aligned-pe.sam
