@@ -4,11 +4,13 @@
   <img width="865" height="570" src="https://github.com/jongtaek-kim/Bioinformatics-For-Molecular-Pathologist/blob/17933481f55b0544350693bbf6cfc0cc2453214a/docs/images/variantcall.png">
 </p>
 
+## B) Seconday Analysis with GATK Best Practices.
+
 <p align="center">
   <img width="872" height="501" src="https://github.com/jongtaek-kim/Bioinformatics-For-Molecular-Pathologist/blob/d0440c17f19f726acd780e77c6825f7ba04981ec/docs/images/Best_Practice.png">
 </p>
 
-## Quality Control with FastQC Program.
+## C) Variant Calling with Parameters Set.
 ```bash
 $  java -jar $GATK \
         -T MuTect2 \
