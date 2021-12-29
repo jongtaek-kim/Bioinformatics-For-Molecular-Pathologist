@@ -30,7 +30,7 @@ Lecture and Tutorial Created For Molecular Oncology Rotation at the University o
 ### Learn basic UNIX command-line coding (Needed later to perform quality control, align reads to a reference genome, and annotate variants).
 ### *Click here for complete instructions [(Command Line Tutorials)](Command-Line-Coding/README.md)
 
-## 4. FastQC: Qualirty Control Of Sequence Reads
+## 4. FastQC: Quality Control Of Sequence Reads
 ### [FastQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/) is a quality control tool for high throughput sequence data such as next generation sequencing.
 <p align="center">
   <img width="700" height="500" src="https://github.com/jongtaek-kim/Bioinformatics-For-Molecular-Pathologist/blob/4a407669119ac2622aad424d5113e981d6e7ced7/docs/images/fastqc.png">
