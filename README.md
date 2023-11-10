@@ -20,7 +20,7 @@ Lecture and Tutorial Created For Molecular Oncology Rotation at the University o
 ### *Click [here](https://github.com/jongtaek-kim/Bioinformatics-For-Molecular-Pathologist/tree/main/Understanding-Bioinformatics-NGS) for a bioinformatics lecture.
 ### *Rest of this web page below is for NGS and Bioinformatics Tutorial.
 
-## 2 Setting Up Your Computer For NGS Tutorial
+## 2. Setting Up Your Computer For NGS Tutorial
 ### Install Miniconda which contains the conda package manager.
 ### Once Miniconda is installed, you can use the conda command to install any other packages such as FastQC, Trimmomatic, BWA, SAMtools, GATK, etc.
 
