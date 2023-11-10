@@ -54,7 +54,7 @@ $ cp file1.txt copyfile1.txt
 
 # F) mkdir (make a new folder or directory)
 ```bash
-$ mdkir
+$ mkdir
 ```
 &nbsp;  
 ## This will make a subfolder named "folder1" in your home directory.
